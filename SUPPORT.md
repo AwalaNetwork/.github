@@ -1,3 +1,3 @@
-# Getting help with Relaynet
+# Getting help with Awala
 
-For any questions or feedback, please join the [@relaynet/community](https://gitter.im/relaynet/community) channel on Gitter.
+Please refer to [https://awala.network/community](https://awala.network/community).
